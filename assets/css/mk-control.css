@@ -1,0 +1,27 @@
+.customize-control-inputs-container{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.customize-control-value-type-container{
+    display: flex;
+    gap: 4px;
+}
+
+.customize-control-separator{
+    margin: 18px 0 16px 0;
+}
+
+.customize-multiple-values-inputs{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    font-size: 0.7rem;
+    color: #747474;
+    text-transform: uppercase;
+}
+
+/* .wp-core-ui select{
+border: none;
+} */
