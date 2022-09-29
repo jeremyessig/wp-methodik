@@ -1,0 +1,14 @@
+.section {
+    max-width: var(--mk-section-max-width);
+    max-height: var(--mk-section-max-height);
+    min-width: var(--mk-section-min-width);
+    min-height: var(--mk-section-min-height);
+    width: var(--mk-section-width);
+    height: var(--mk-section-height);
+    padding-top: var(--mk-section-padding-top);
+    padding-bottom: var(--mk-section-padding-bottom);
+    padding-right: var(--mk-section-padding-right);
+    padding-left: var(--mk-section-padding-left);
+    background-color: var(--mk-section-background-color);
+    margin: 0 auto;
+}
